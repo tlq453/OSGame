@@ -11,5 +11,6 @@ Game for OS Fragmentation and Paging
     ```
 1. Run the Game:
    ```
-   pygame OSgame.py
+   python OSGame.py
    ```
+   
