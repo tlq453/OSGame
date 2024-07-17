@@ -1,6 +1,11 @@
 # OSGame
 Game for OS Fragmentation and Paging
 
-pip install pygame library in your code editor
+## Installation
 
-To run the game:pyhon OSgane.py
+1. Install Flask:
+    ```
+    pip install pygame
+    ```
+## Run the game
+1. pygame OSgame.py
