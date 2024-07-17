@@ -8,7 +8,6 @@ Game for OS Fragmentation and Paging
     pip install pygame
     ```
 ## Usage
-    ```
 1. Run the Game:
    ```
    python OSGame.py
