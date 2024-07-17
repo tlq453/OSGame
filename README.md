@@ -9,5 +9,7 @@ Game for OS Fragmentation and Paging
     ```
 ## Usage
     ```
-    pygame OSgame.py
-    ```
+1. Run the Game:
+   ```
+   pygame OSgame.py
+   ```
